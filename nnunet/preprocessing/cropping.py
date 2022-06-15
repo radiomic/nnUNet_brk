@@ -12,7 +12,7 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-import SimpleITK as sitk
+import SimpleITK as sitk # version 2.0.2
 import numpy as np
 import shutil
 from batchgenerators.utilities.file_and_folder_operations import *
